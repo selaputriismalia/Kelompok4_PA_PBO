@@ -42,8 +42,17 @@ pada codingan diatas merupakan method untuk menambahkan data table pelayanan ked
 ![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/04bef1f8-4cdb-4377-9e7a-6c52bc6cb676)
 pada codingan diatas merupakan method untuk mengambil data dari table pelayanan di database, yang dimana dideklarasikan sebagai public void agar bisa di akses di luar class, lalu menggunaan void karena pengambilan data langsung ditampilkan data pada tabel melalui objek DefaultTableModel, maka dari itu method ini tidak perlu mengembalikan nilai nya.
 ##### CRUD_Admin hapusKaryawan()
+
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/2d11b9d1-9987-41ff-bdc0-4673c216d9c7)
+
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/5e656e2f-bafa-4c64-a4aa-5069e22e377b)
+
+
 pada codingan diatas merupakan method untuk mengahapus data dari table pelayanan dan karyawan pada database, yang dimana dideklarasikan sebagai public static void, Penggunaan metode static void memungkinkan metode ini untuk digunakan tanpa harus membuat objek dari kelasnya dan tidak mengembalikan nilai, sesuai dengan tujuan spesifik metode ini, yaitu menjalankan operasi penghapusan data dari database.
 ##### CRUD_Admin getKaryawanById()
+
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/a32ca421-17f5-411e-acb5-2fd590e47475)
+
 pada codingan diatas merupakan method untuk mengambil nilai dari table karyawan pada database dengan mecocokkan di yang dicari,yang dimana dideklarasikan sebagai public, penggunaan metode public ini memungkin kan untuk mengembalikan nilai.
 #### Costume_CRUD
 #### Costume_CRUD addCostumeKarakter()
@@ -139,6 +148,65 @@ codingan button cari
 ![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/9d2ff415-35db-4388-9acf-fa7dd580a7b6)
 codingan button ubah
 ![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/74439cff-4ebf-445b-844d-bc7720b00f04)
+## Screenshot Output
+### Jframe Hapus_Anime
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/27968ec7-46f9-47b4-a499-bfd04130ac17)
+
+### Jframe Hapus_Costume
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/7726782a-1cfa-4de7-b2bf-df63bc021b5c)
+
+### Jframe Login
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/b5ac9ea0-f1c9-412e-9a6a-d0fc18bf5b9a)
+
+### Jframe Menu_Admin
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/3f68c29a-c470-4488-9f2c-7eb33e9f15ba)
+
+### Jframe Manu_Awal
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/46cfc061-88d6-44f0-b85a-d32c0f6ab196)
+
+### Jframe Pilihan_Menu
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/d79ee521-4d82-4604-b348-931a503f0c27)
+
+### Jframe Tambah_Admin
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/3fc2eed9-95ba-4c59-b546-523400c131f0)
+
+### Jframe Tambah_Anime
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/0c92fae6-244c-4891-8234-fa60d850792d)
+
+### Jframe Tambah_Game
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/c98fc520-dd97-4e7d-b386-9ced3972478f)
+
+
+
+### Jframe Tambah_Game2
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/15d46844-1e60-4172-a4da-a71c2931346b)
+
+
+
+### Jframe Tambah_Palayanan
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/df9bc554-39c3-448f-8c9a-3576a417faf8)
+
+### Jframe Tampilan Anime
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/9d90344b-46f4-47f8-b9cb-66940912de1f)
+
+### Jframe Tampilan DataAdmin
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/a041b4e7-6b81-4cd0-b825-45ade4a06706)
+
+### Jframe Tampilan_Costume
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/af5489fd-83e9-4dbc-8714-f4e68517fe9d)
+
+### Jframe Tampilan_Game
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/3dbe22fd-0bc9-4616-b706-b268343a306c)
+
+### Jframe Update_Admin
+
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/b9f27e1d-7c06-40d7-bd6e-52c6b4aa9088)
+
+
+### Jframe Update_Costume
+![image](https://github.com/selaputriismalia/Kelompok4_PA_PBO/assets/88119620/e4959abb-f15d-405f-805f-a79ae9cbb699)
+
+
 
 
 
